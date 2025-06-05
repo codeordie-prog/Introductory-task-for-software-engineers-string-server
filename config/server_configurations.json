@@ -1,0 +1,16 @@
+{
+    "linuxpath":"Strings/200k.txt",
+    "host":"127.0.0.1",
+    "port":5555,
+    "logging_level":"DEBUG",
+    "workers":4,
+    "reread_on_query":false,
+    "ssl_enabled":true,
+    "ssl_certificate":"config/cert.pem",
+    "ssl_key":"config/key.pem",
+    "ssl_client_auth":true,
+    "ssl_ca_certificate":"config/ca.pem",
+    "ssl_verify_mode":"CERT_REQUIRED",
+    "ssl_ciphers":"ECDHE+AESGCM:ECDHE+CHACHA20:DHE+AESGCM:DHE+CHACHA20:!aNULL:!MD5:!DSS",
+    "test_mode":false
+}
