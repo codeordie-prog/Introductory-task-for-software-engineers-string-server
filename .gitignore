@@ -1,0 +1,10 @@
+config/
+venv/
+lib/
+logs/
+bin/
+__pycache__
+pyenv.cfg
+pyvenv.cfg
+git_push_pass
+lib64
