@@ -64,14 +64,14 @@ A high-performance string search server with support for large datasets and conc
 
 ## Installation
 
-1. Extract the zip file to your desired location:
+1. Clone the repository to your desired location:
    ```bash
    # Windows (WSL)
-   unzip server.zip
+   git clone https://github.com/codeordie-prog/Introductory-task-for-software-engineers-string-server.git server
    cd server
 
    # Linux/Mac
-   unzip server.zip
+   git clone https://github.com/codeordie-prog/Introductory-task-for-software-engineers-string-server.git server
    cd server
    ```
 
